@@ -6,7 +6,7 @@ A MOVEON LOCADORA é um sistema web desenvolvido para facilitar e automatizar o 
 
 ---
 
-## 🔧 Funcionalidades Principais
+##  Funcionalidades Principais
 
 - **Cadastro de Usuários**  
   Permite registrar clientes, funcionários e administradores no sistema.
@@ -28,7 +28,7 @@ A MOVEON LOCADORA é um sistema web desenvolvido para facilitar e automatizar o 
 
 ---
 
-## 🗂️ Estrutura do Sistema
+##  Estrutura do Sistema
 
 ### **1. Cadastro de Veículos**
 Armazena dados como modelo, categoria, ano, placa, quilometragem e status de disponibilidade.
@@ -44,7 +44,7 @@ Gerencia funcionários, carros e toda a parte operacional.
 
 ---
 
-## 📐 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
@@ -55,7 +55,7 @@ Gerencia funcionários, carros e toda a parte operacional.
 
 ---
 
-## 📁 Pré-requisitos
+##  Pré-requisitos
 
 - Editor recomendado: **Visual Studio / VS Code**
 - Navegador atualizado  
@@ -63,7 +63,7 @@ Gerencia funcionários, carros e toda a parte operacional.
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 Clone o repositório:
 
