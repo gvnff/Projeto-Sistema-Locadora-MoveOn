@@ -68,5 +68,6 @@ Gerencia funcionários, carros e toda a parte operacional.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/gvnff/Projeto-Sistema-Locadora-MoveOn/blob/main/README.md 
+git clone https://github.com/gvnff/Projeto-Sistema-Locadora-MoveOn/blob/main/README.md
+[Link do projeto](https://github.com/gvnff/Projeto-Sistema-Locadora-MoveOn)
 ```
