@@ -1,6 +1,6 @@
 # MOVEON LOCADORA – Sistema Web de Locação de Veículos
 
-![banner](https://github.com/gvnff/Projeto-Sistema-Locadora-MoveOn/blob/main/Captura%20de%20tela%202025-11-30%20115842.png)
+![banner](https://github.com/gvnff/Projeto-Sistema-Locadora-MoveOn/blob/main/banner.jpg)
 
 A MOVEON LOCADORA é um sistema web desenvolvido para facilitar e automatizar o processo de locação de veículos. O projeto foi construído como parte da disciplina **Projeto de Extensão em Programação**, integrando HTML, CSS, JavaScript e ASP.NET para oferecer uma plataforma acessível, organizada e funcional.
 
