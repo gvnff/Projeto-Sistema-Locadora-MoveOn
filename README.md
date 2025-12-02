@@ -44,7 +44,14 @@ Gerencia funcionários, carros e toda a parte operacional.
 
 ---
 
-## Tecnologias Utilizadas - **HTML5** - **CSS3** - **JavaScript** - **ASP.NET** - **Banco de Dados (MySQL ou SQL Server)** - **Git e GitHub**
+## Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **ASP.NET**
+- **Banco de Dados (MySQL / SQL Server)**
+- **Git e GitHub**
 
 ---
 
