@@ -50,7 +50,7 @@ Gerencia funcionários, carros e toda a parte operacional.
 - **CSS3**
 - **JavaScript**
 - **ASP.NET**
-- **Banco de Dados (MySQL / SQL Server)**
+- **Banco de Dados (SQLite)**
 - **Git e GitHub**
 
 ---
@@ -59,7 +59,7 @@ Gerencia funcionários, carros e toda a parte operacional.
 
 - Editor recomendado: **Visual Studio / VS Code**
 - Navegador atualizado  
-- Banco de dados configurado
+- Banco de Dados configurado
 
 ---
 
